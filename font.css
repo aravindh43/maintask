@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+.header{
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+}
+.header a{
+    font-family: 'Inter', sans-serif;
+}
+.heading1{
+    font-weight:700;
+    font-size: 48px;
+}
+.heading2{
+    font-weight: 400;
+    font-size: 20px;
+}
+.partner{
+    font-weight: 400;
+    font-size: small;
+    font-family: 'Inter', sans-serif;
+}
+.socialmedia{
+    font-weight: 600;
+    font-family:'Inter', sans-serif;
+}
+.caps{
+    font-family: 'Inter', sans-serif;
+font-weight: 700;
+font-size: 12px;
+letter-spacing: 1px;
+}
+.heading3{
+    font-weight: 700;
+    font-size: 48px;
+}
+.content{
+    font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+}
+.learnmore{
+    font-family: 'Inter', sans-serif;
+    font-size:15px;
+    text-align: center;
+letter-spacing: -0.2px;
+}
+.heading4{
+    font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+}
+.thirdcontent{
+    font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+}
+.fourthcontent{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+font-size:15px;
+line-height: 25px;
+}
+.fourthcontent2{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+font-size: 10px;
+}
+.heading5{
+    font-family: 'Inter', sans-serif;
+    font-size:40px;
+font-weight: 600;
+}
+.fifthcontent{
+    font-family: 'Inter', sans-serif;
+    font-size:10px;
+    line-height: 10px;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+.whiteboxes p{
+    font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+}
+.fifthcontent2{
+    font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 10px;
+line-height: 30px;
+}
+.whiteboxes h6{
+    font-size: 17px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+.heading6{
+font-family: 'Inter', sans-serif;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+}
+.seventhsection{
+    font-family: 'Inter', sans-serif;
+font-weight: 600;
+font-size: 26px;
+}
+.seventhcontent{
+    font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+}
+.seventhrightsection h4{
+    font-size: 18px;
+}
+.category{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+}
+.footer{
+    font-family: 'Inter', sans-serif;
+}
